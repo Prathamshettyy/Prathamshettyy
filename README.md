@@ -32,19 +32,12 @@
 
   <h2>📫 Socials</h2>
 
-- 📬 Mail me at: **prathamshetty04@gmail.com**
-- 🌐 Connect on LinkedIn: [https://www.linkedin.com/in/prathamshettyy/](https://www.linkedin.com/in/prathamshettyy/)
+- 📬 Mail me at: **prathamshetty329@gmail.com**
+- 🌐 Connect on LinkedIn: [www.linkedin.com/in/prathamrshetty](www.linkedin.com/in/prathamrshetty)
 - 💼 Portfolio: *Coming soon!*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
   
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Visitors:</h2></summary>
-  </ul>
-</div>
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/Prathamshettyy/count.svg" alt="Visitor Counter" />
-  </p>
+
 </body>
 </html>
