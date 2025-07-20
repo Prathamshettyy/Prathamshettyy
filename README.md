@@ -3,15 +3,13 @@
 <body>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F77D2A&center=true&vCenter=true&random=true&width=438&lines=Hey%F0%9F%91%8B%2C+I'm+Pratham!;Welcome+to+my+github.;Happy+Stalking+:)+%F0%9F%92%BB" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=2ECC71&center=true&vCenter=true&random=true&width=438&lines=Hey%F0%9F%91%8B%2C+I'm+Pratham!;Welcome+to+my+github.;Happy+Stalking+%3A)" alt="Typing SVG" />
     </a>
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
   <br>
-  
 
- 
 <table align="center">
 <tr>
 <td width="50%" align="center">
@@ -33,11 +31,10 @@
   <h2>📫 Socials</h2>
 
 - 📬 Mail me at: **prathamshetty329@gmail.com**
-- 🌐 Connect on LinkedIn: [https://www.linkedin.com/in/prathamrshetty](www.linkedin.com/in/prathamrshetty)
+- 🌐 Connect on LinkedIn: [https://www.linkedin.com/in/prathamrshetty](https://www.linkedin.com/in/prathamrshetty)
 - 💼 Portfolio: *Coming soon!*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
-  
 
 </body>
 </html>
