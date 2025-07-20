@@ -3,32 +3,15 @@
 <body>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F77D2A&center=true&vCenter=true&random=true&width=438&lines=Hey%F0%9F%91%8B%2C+I'm+Pratham!;Welcome+to+my+GitHub.;Feel+free+to+explore+my+work+%F0%9F%92%BB" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F77D2A&center=true&vCenter=true&random=true&width=438&lines=Hey%F0%9F%91%8B%2C+I'm+Pratham!;Welcome+to+my+GitHub.; Feel+free+to+explore+my+work+%F0%9F%92%BB" alt="Typing SVG" />
     </a>
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
   <br>
   
-  ### 🦊 Languages & Technologies I Know:
 
-  <ul>
-    <li>Python | C++ | JavaScript</li>
-    <li>HTML | CSS | SQL</li>
-    <li>React | Node.js | Flask | Django</li>
-    <li>Git | Firebase | GCP | MongoDB</li>
-  </ul>
-
-  <h2>🔭 Current Endeavors</h2>
-
-  #### I'm currently building and exploring:
-
-  <ul>
-    <li>🚀 Real-world Fullstack and AI/ML projects</li>
-    <li>🧠 Projects in Cybersecurity, Burp Suite, and Offensive Security</li>
-    <li>🌐 Personal Portfolio and Internship Experiences</li>
-  </ul> 
-
+ 
 <table align="center">
 <tr>
 <td width="50%" align="center">
